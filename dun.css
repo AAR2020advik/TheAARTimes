@@ -3,6 +3,7 @@
 }
 
 .asia {
+  box-sizing: border-box;
   border-top: 5px solid block;
   border-bottom: 5px solid block;
   font-family: Algerian;
